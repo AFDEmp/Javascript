@@ -1,14 +1,14 @@
 { "name" : "mysql-native"
 , "description" : "MySql protocol client for Node.Js"
 , "keywords": ["mysql", "native", "sql", "database", "client", "pool"]
-, "homepage" : "http://github.com/sidorares/nodejs-mysql-native"
+, "homepage" : "https://github.com/AFDEmp/Javascript/tree/master/nodejs-mysql-native"
 , "version" : "0.4.7"
-, "author": "Andrey Sidorov <sidorares@yandex.ru>"
-, "bugs" : { "url" : "http://github.com/sidorares/nodejs-mysql-native/issues" }
+, "author": "Michalis Hamilos <mhamilos@outlook.com>"
+, "bugs" : { "url" : "https://github.com/AFDEmp/Javascript/tree/master/nodejs-mysql-native/issues" }
 ,"license": "MIT"
 , "repository" :
   [ { "type" : "git"
-    , "url" : "http://github.com/sidorares/nodejs-mysql-native"
+    , "url" : "https://github.com/AFDEmp/Javascript/tree/master/nodejs-mysql-native"
     }
   ]
 , "main" : "./lib/mysql-native"
