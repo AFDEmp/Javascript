@@ -83,5 +83,3 @@ Other node.js mysql clients:
 * <http://github.com/Guille/node.dbslayer.js>
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sidorares/nodejs-mysql-native/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
